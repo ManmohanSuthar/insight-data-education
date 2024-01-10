@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.photo_images {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 50px 100px;
+}
+.photo_heading {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
+.photo_heading h1 {
+  font-size: 25px;
+  color: aliceblue;
+}
+
+.photo_card_img {
+  padding: 10px;
+  width: 100px;
+  height: 400px;
+  background-color: var(--main-color);
+  border-radius: 10px;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
+    rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+.photo_card_img img {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  transition: all 0.4s ease-in-out;
+}
+.photo_card_img img:hover {
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+@media only screen and (max-width: 966px) {
+  .photo_images {
+    padding: 50px 20px;
+  }
+}

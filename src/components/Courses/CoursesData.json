@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Tally With GST Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/telly_gst.png?alt=media&token=4e737e41-4668-4c97-a975-befbe4524e71",
+    "bio": "GST using Tally course covers topics from basic to advanced GST concepts, e-Way Bill,e-Invoice, and accounting of GST-compliant transactions.",
+    "fullbio": "GST using Tally course covers topics from basic to advanced GST concepts, e-Way Bill, e-Invoice, and accounting of GST-compliant transactions. Prepare returns GSTR-1, GSTR-3B & GSTR-9. Understand concept of Supply, how recording transactions in TallyPrime etc. after you completed this course you will gain dept knowledge about GST and practice in accounting line"
+  },
+  {
+    "id": 2,
+    "name": "Tally With TDS Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/Tally%20With%20TDS%20Course.jpg?alt=media&token=bd149a83-689b-47cd-a09a-fe554fa4facf",
+    "bio": "The specialization course on TDS (Tax Deducted at Source) covers step-by-step instructions starting from Fundamentals to Practical of TDS including Basic Concepts....",
+    "fullbio": "The specialization course on TDS (Tax Deducted at Source) covers step-by-step instructions starting from Fundamentals to Practical of TDS including Basic Concepts, Various TDS Process, TDS on Expenses at Lower, Zero and Higher Rate, TDS on Works Contract attracting GST, TDS on Income from Foreign Currency, Generating TDS Challan (ITNS 281), TDS Reports – Form and e-filing Form 26Q, Form 27Q. The course is enriched with numerous real life business scenarios, charts, screenshots, observations, solved illustrations, and practice scenarios on TallyPrime. It is structured in a blended format which gives you a flexibility to learn at your own pace while getting help from experts. As a Certified TDS Professional you get an edge among your fellow competitors in the job market"
+  },
+  {
+    "id": 3,
+    "name": "Tally Professional Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/tally-professional.png?alt=media&token=5f1695b2-48a2-435a-b4d1-53b0bc8f464e",
+    "bio": "If you are a working professional and an expert in the Accounting and Finance domain, then TallyProfessional is the course designed for your career growth.",
+    "fullbio": "If you are a working professional and an expert in the Accounting and Finance domain, then TallyProfessional is the course designed for your career growth. It covers topics from advanced accounting and inventory to taxation including payroll and income tax"
+  },
+  {
+    "id": 4,
+    "name": "Financial Accounting & Taxation Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/Financial%20Accounting%20%26%20Taxation%20Course.jpg?alt=media&token=94a4b14a-d5bc-4b28-abfe-fbdc5aaf464a",
+    "bio": "This course is specially designed for those students who are new in the accounting field and make our career in accounts, basic to advance every topic covered step wise step.",
+    "fullbio": "This course is specially designed for those students who are new in the accounting field and make our career in accounts, basic to advance every topic covered step wise step. You are a beginner, join this course and make your career in accounts."
+  },
+  {
+    "id": 5,
+    "name": "Computer Data Entry Operator Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/Computer-Data.jpg?alt=media&token=7354a18f-0247-4e4f-bfd8-ed47a7d5bc26",
+    "bio": "This course is designed for those students who make our career in computer filed work as a data entry operator, this course is comprehensive, you learn every topic use in data entry work.",
+    "fullbio": "This course is designed for those students who make our career in computer filed work as a data entry operator, this course is comprehensive, you learn every topic use in data entry work"
+  },
+  {
+    "id": 6,
+    "name": "Basic Computer Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/basic-computer-course.webp?alt=media&token=183b41b2-889a-4734-a821-6e38efae18ff",
+    "bio": "This course is basically designed for those students who are new in computer or beginner in computer, provide basic knowledge about computer applications and internet applications",
+    "fullbio": "This course is basically designed for those students who are new in computer or beginner in computer, provide basic knowledge about computer applications and internet applications, familiar students with computer & inter "
+  },
+  {
+    "id": 7,
+    "name": "NIELIT CCC Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/NIELIT%20CCC%20Course.jpg?alt=media&token=d579a0cc-407a-4234-900b-7913db9808cc",
+    "bio": "CCC stands for Course on Computer Concepts. It's a program that teaches the basics of computer and information technology.",
+    "fullbio": "CCC stands for Course on Computer Concepts. It's a program that teaches the basics of computer and information technology. The National Institute of Electronics & Information Technology (NIELIT) provides the CCC certificate. The CCC course aims to provide basic knowledge about computers and operating basic software like Ms Windows, Ms Word, Ms PowerPoint, and Ms Excel. It also provides basic understanding of email, Internet searching, and business concepts"
+  },
+  {
+    "id": 8,
+    "name": "NIELIT O Level Foundation Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/NIELIT%20O%20Level%20Foundation%20Course.jpg?alt=media&token=4b71410d-e4a1-42a5-a0a5-cda0096de7e1",
+    "bio": "The O Level course is a one-year computer course offered by the National Institute of Electronics and Information Technology (NIELIT). The course is divided into two semesters, each six months long",
+    "fullbio": "The O Level course is a one-year computer course offered by the National Institute of Electronics and Information Technology (NIELIT). The course is divided into two semesters, each six months long. The O Level course covers topics such as: HTM, JAVA, CSS programming Information technology and society Computer architecture Python Programming IT tools and business"
+  },
+  {
+    "id": 9,
+    "name": "HARTRON Computer Course",
+    "img": "https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/HARTRON%20Computer%20Course.png?alt=media&token=c84b7cf9-0f11-466f-aaa1-aff4ed5d3825",
+    "bio": "HARTRON (Haryana state government department) offers a Diploma in Computer Aided Accounting (DCAA) course of at least 52 weeks duration.",
+    "fullbio": "HARTRON (Haryana state government department) offers a Diploma in Computer Aided Accounting (DCAA) course of at least 52 weeks duration. The DCAA program provides students with accounting principles and practices knowledge and skills, with an emphasis on using computer software and tools for efficient accounting processes"
+  }
+]

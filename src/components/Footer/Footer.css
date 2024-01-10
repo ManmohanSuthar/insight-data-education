@@ -1,0 +1,147 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.main_footer {
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  gap: 30px;
+  padding: 40px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  width: 100%;
+  height: max-content;
+  background-color: var(--main-color);
+}
+.footer_logo {
+  padding-right: 50px;
+}
+.footer_logo,
+.footer_links,
+.footer_contacts,
+.footer_courses {
+  width: 33%;
+  height: 100%;
+  /* justify-content: center; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.footer_logo h1,
+.footer_links h1,
+.footer_contacts h1,
+.footer_courses h1 {
+  font-size: 18px;
+  color: aliceblue;
+  margin-bottom: 13px;
+}
+.footer_logo h2 {
+  font-weight: 500;
+  font-size: 13px;
+  color: rgba(240, 248, 255, 0.863);
+}
+.footer_contacts h2,
+.footer_courses a {
+  color: rgba(240, 248, 255, 0.838);
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.4s ease-in-out;
+}
+.footer_links a {
+  font-size: 13px;
+  transition: all 0.4s ease-in-out;
+  color: rgba(240, 248, 255, 0.861);
+}
+.footer_links a:hover,
+.footer_courses a:hover {
+  color: var(--main-2color);
+  cursor: pointer;
+}
+.footer_contacts > div {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  margin-top: 10px;
+}
+.footer_contacts > div i {
+  cursor: pointer;
+  font-size: 15px;
+  color: aliceblue;
+  transition: all 0.4s ease-in-out;
+}
+.footer_contacts > div i:hover {
+  color: var(--main-2color);
+}
+.admin {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  /* height: 40px; */
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  background-color: var(--main-color);
+}
+.admin h1 {
+  font-size: 10px;
+  color: aliceblue;
+  font-weight: 500;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+.admin > div {
+  display: flex;
+  gap: 10px;
+  color: rgba(240, 248, 255, 0.822);
+}
+.admin > div a > i {
+  color: aliceblue;
+  font-size: 17px;
+  transition: all 0.4s ease-in-out;
+}
+.admin > div i:hover {
+  color: var(--main-2color);
+}
+
+@media only screen and (max-width: 966px) {
+  .main_footer {
+    padding: 50px 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer_logo {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-right: 0px;
+  }
+  .footer_links {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    /* padding-right: 0px; */
+  }
+  .footer_courses {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer_contacts {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer_contacts > div {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+}

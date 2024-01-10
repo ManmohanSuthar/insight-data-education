@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Courses",
+    "bio": "Explore learning paths for data mastery.",
+    "img": "/src/assets/book-solid (2).svg",
+    "color": "green"
+  },
+  {
+    "name": "Training",
+    "bio": "Elevate skills through specialized educational programs.",
+    "color": "#6d61ed",
+    "img": "/src/assets/book-solid (2).svg"
+  },
+  {
+    "name": "Services",
+    "bio": "Innovative data solutions and analytical expertise offered.",
+    "color": "#f65b4a",
+    "img": "/src/assets/book-solid (2).svg"
+  },
+  {
+    "name": "Resources",
+    "bio": "Access comprehensive knowledge base for learning.",
+    "color": "#efc152",
+    "img": "/src/assets/book-solid (2).svg"
+  },
+  {
+    "name": "Events",
+    "color": "pink",
+    "bio": "Engaging webinars, seminars, conferences, networking opportunities offered.",
+    "img": "/src/assets/book-solid (2).svg"
+  },
+  {
+    "name": "About",
+    "bio": "Discover our center and its mission.",
+    "color": "#00ba8e",
+    "img": "/src/assets/book-solid (2).svg"
+  }
+]
