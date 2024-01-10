@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "./Contact.css";
 
 const Contact = () => {
-  const [whatsappNumber, setWhatsappNumber] = useState("+919467842672");
+  const [whatsappNumber, setWhatsappNumber] = useState("+919896831507");
   const [whatsappName, setWhatsappName] = useState("");
   const [whatsappMessage, setWhatsappMessage] = useState("");
 
