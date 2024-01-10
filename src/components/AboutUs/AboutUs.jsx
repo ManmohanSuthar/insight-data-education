@@ -7,7 +7,7 @@ const AboutUs = () => {
       <div className="main_about">
         <div className="about_left">
           <div className="about_img">
-            <img src="/src/assets/2.jpg" alt="" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/insight-data-education.appspot.com/o/2.jpg?alt=media&token=07b80343-8fb8-4a8e-afde-6c0654ee1d7d" alt="" />
           </div>
         </div>
         <div className="about_right">
