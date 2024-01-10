@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "./Contact.css";
 
 const Contact = () => {
-  const [whatsappNumber, setWhatsappNumber] = useState("+919896831507");
+  const [whatsappNumber, setWhatsappNumber] = useState("+919467842672");
   const [whatsappName, setWhatsappName] = useState("");
   const [whatsappMessage, setWhatsappMessage] = useState("");
 
@@ -92,8 +92,23 @@ const Contact = () => {
                 placeholder="Your Name"
                 required
               />
-              <input type="text" name="subject" placeholder="Subject" />
-              <textarea name="message" placeholder="Message" />
+              <select name="course" id="course">
+                <option value="Select Course">Select Course</option>
+                <option value="Tally With GST Course">
+                  Tally With GST Course
+                </option>
+                <option value="Tally With TDS Course">
+                  Tally With TDS Course
+                </option>
+                <option value="Tally Professional Course">
+                  Tally Professional Course
+                </option>
+                <option value="Financial Accounting & Taxation Course">
+                  Financial Accounting & Taxation Course
+                </option>
+                <option value="Other Course">Other Course</option>
+              </select>
+              <textarea id="massage" name="message" placeholder="Message" />
               <input
                 type="submit"
                 value="Send"
